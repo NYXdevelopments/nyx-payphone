@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ce81425.css",
+    "main.js": "/static/js/main.7ebdc532.js",
+    "static/media/MusticaPro-SemiBold.otf": "/static/media/MusticaPro-SemiBold.b1a800b42a1c7df2493c.otf",
+    "static/media/AGENCYB.ttf": "/static/media/AGENCYB.8ea49f04bdda6f43b4c3.ttf",
+    "index.html": "/index.html",
+    "main.7ce81425.css.map": "/static/css/main.7ce81425.css.map",
+    "main.7ebdc532.js.map": "/static/js/main.7ebdc532.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ce81425.css",
+    "static/js/main.7ebdc532.js"
+  ]
+}

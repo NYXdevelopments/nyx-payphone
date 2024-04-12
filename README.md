@@ -1,6 +1,12 @@
+https://cdn.discordapp.com/attachments/889454827678097418/1228395573514604594/NYX_TUMBNAIL2222HGFHGF.png?ex=662be387&is=66196e87&hm=cb310f136000ade5fb5e52ce56aa18b2a8a3e903e8b1ee6f944a41200ce26f63&
+
 ### Nyx Development Payphone
 This is a payphone script and it was released by Nyx Development its compeletly open source, you can join our discord for more free stuff in future from the link down below
-https://discord.gg/RCrQZayqAs
+
+
+Discord : https://discord.gg/RCrQZayqAs
+Youtube : https://www.youtube.com/@nyxdevelopments
+Tebex : https://nyxdev.tebex.io/
 
 
 # Depedency

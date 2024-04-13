@@ -38,3 +38,7 @@ local PublicPhoneobject = {
 
 
 ```
+
+in qb-phone line 401 in main.lua add this following line 
+
+exports('CallContact', CallContact)

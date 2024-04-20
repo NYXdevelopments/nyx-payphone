@@ -9,10 +9,6 @@ Youtube : https://www.youtube.com/@nyxdevelopments
 Tebex : https://nyxdev.tebex.io/
 
 
-## Update
-update : added a uncompiled interface because of the high demands install the modules on your own
-
-
 # Depedency
 1. [qb-core](https://github.com/qbcore-framework/qb-core)
 2. [qb-phone](https://github.com/qbcore-framework/qb-phone)

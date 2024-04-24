@@ -6,7 +6,7 @@ This is a simple payphone script and it was released by us the ui part is compil
 
 Discord : https://discord.gg/RCrQZayqAs
 Youtube : https://www.youtube.com/@nyxdevelopments
-Tebex : https://nyxdev.tebex.io/
+Tebex : https://nyxdevelopment.tebex.io/
 
 
 # Depedency
